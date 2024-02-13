@@ -2,6 +2,8 @@
 
 ## Description
 ### Overview
+I use SQL every day in my current role. This is a representative example for a significant portion of what I do.
+
 This query is used to pull data from a legacy database for comparison against data which was migrated to a new database. I designed it to pull data from the legacy tables in the same order as the new table they're mapped to in order to facilitate side-by-side comparison in Microsoft Excel.
 
 ### What I Learned
