@@ -1,5 +1,7 @@
 # <p align="center">Representative Example of SQL Experience</p>
 
+### __NOTE: My SQL experience is now far better represented in the repository titled "Pre-VT Checklist." Check the .cls files titled "QueryBuilder.cls" and "SubStringBuilder.cls" for a comprehensive view of my use of SQL.__
+
 ## Description
 ### Overview
 I use SQL every day in my current role. This is a representative example for a significant portion of what I do.
