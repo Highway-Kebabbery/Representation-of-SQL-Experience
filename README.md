@@ -1,6 +1,6 @@
 # <p align="center">Representative Example of SQL Experience</p>
 
-### __NOTE: My SQL experience is now far better represented in the repository titled "Pre-VT Checklist." Check the .cls files titled "QueryBuilder.cls" and "SubStringBuilder.cls" for a comprehensive view of my use of SQL.__
+### __NOTE: My SQL experience is now far better represented in the repository titled "Pre-VT Checklist." Check the .cls files titled "QueryBuilder.cls" and "SubStringBuilder.cls" for a comprehensive view of my use of SQL. These include slightly more advanced concepts like unions, sub-queries, and flexible use of one query for multiple implementations in the context of the back end of an application in addition to the things demonstrated here such as joins and creative use of aliasing.__
 
 ## Description
 ### Overview
